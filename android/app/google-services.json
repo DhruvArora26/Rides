@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "861331748931",
+    "firebase_url": "https://rides1-e2301.firebaseio.com",
+    "project_id": "rides1-e2301",
+    "storage_bucket": "rides1-e2301.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861331748931:android:06f80cf5691831623cbcf6",
+        "android_client_info": {
+          "package_name": "com.Dhruv.rides"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861331748931-7t5b448phn95uvhoil9rqbkbbc26ikbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGFWO5_3nNdy9K7Hfq8Kag6_EFy1hjcbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861331748931-7t5b448phn95uvhoil9rqbkbbc26ikbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
