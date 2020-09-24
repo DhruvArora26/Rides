@@ -1,4 +1,4 @@
-git initimport 'package:flutter/material.dart';
+import 'package:flutter/material.dart';
 import './screens/SignInScreen.dart';
 
 void main() {
